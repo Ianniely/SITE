@@ -1,0 +1,36 @@
+*{
+   margin:0;
+   padding: 0;
+   box-sizing: border-box;
+}
+
+.bg{
+    background-color: grey;
+}
+
+.navbar{
+    padding: 0;
+}
+
+.navbar-toggler:focus{
+     box-shadow: none;
+}
+
+@media(max-width: 767px){
+    .ul-bg{
+        background-color: secondary;
+}
+
+nav .nav-item a:hover{
+        background-color:  #90ee90;
+}
+}
+
+nav .nav-item a:hover{
+        background-color:  #90ee90;
+}
+
+
+
+
+
