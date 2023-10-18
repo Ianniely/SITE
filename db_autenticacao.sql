@@ -1,5 +1,5 @@
 create database db_autenticacao;
-USE autenticacao_db;
+USE db_autenticacao;
 
 CREATE TABLE usuarios (
     id INT PRIMARY KEY AUTO_INCREMENT,
